@@ -1,0 +1,21 @@
+# deps
+node_modules/
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# env / secrets
+.env
+.env.*
+*.key
+*.pem
+# build output
+dist/
+build/
+.astro/
+# OS / editor junk
+.DS_Store
+desktop.ini
+.codegraph/
+*.log
